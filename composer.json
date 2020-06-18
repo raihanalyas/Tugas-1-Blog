@@ -1,0 +1,14 @@
+{
+    "name": "asus/uts-blog",
+    "description": "Praktikum 8 Pemograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Raihan",
+            "email": "raihanalyashafir@gmai.com"
+        }
+    ]
+}
